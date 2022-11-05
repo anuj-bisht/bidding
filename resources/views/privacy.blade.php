@@ -1,0 +1,1 @@
+{!! $policy->privacy_policy !!}
